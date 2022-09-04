@@ -1,0 +1,21 @@
+id_1	first_name_1	last_name_1	id_2	first_name_2	last_name_2	max_per_meal	Latitude	Longitude	indoor 	outdoor
+1	Pier	Wellesley	21	Basilius	Banasevich	654	63.27427908	36.86499236	TRUE	FALSE
+2	Dona	Bordiss	22	Barry	Wilshaw	612	27.1615282	7.072946363	TRUE	FALSE
+3	Crysta	Feldhorn	23	Link	Folbige	588	28.97872091	65.27484447	TRUE	FALSE
+4	Row	Baraja	24	Tiebold	Zecchetti	376	-55.37776349	-27.89869096	TRUE	FALSE
+5	Belia	Loach	25	Inglis	Connett	686	-70.0666346	20.00429975	TRUE	FALSE
+6	Peggy	Caush	26	Dermot	Askham	293	-69.84254802	-32.61470084	FALSE	TRUE
+7	Caron	Dunstan	27	Dag	Davidman	216	-5.528066277	-46.85245801	FALSE	TRUE
+8	Francisca	Rait	28	Royall	Glasspoole	223	9.485904589	65.99299023	FALSE	TRUE
+9	Candice	Ropkins	29	Eduino	Bullick	396	-61.81190898	-10.73617176	FALSE	TRUE
+10	Carmina	Sprackling	30	Randolph	Dishmon	452	-62.01442119	55.38583191	FALSE	TRUE
+11	Ajay	Caston	31	Guthrie	Johnson	470	29.40583062	-51.83987887	TRUE	FALSE
+12	Carlee	Thorneloe	32	Mattias	Klauber	438	3.088598955	-58.98379379	TRUE	FALSE
+13	Bellanca	Siemandl	33	Lancelot	Simonnet	644	-44.35023526	0.583610579	TRUE	TRUE
+14	Penelope	Iacobassi	34	Skipton	Castano	624	-67.49574631	-30.64014787	TRUE	TRUE
+15	Bethanne	Croote	35	Zed	Yu	512	-4.591292801	-22.85083796	TRUE	FALSE
+16	Maryjo	Puddefoot	36	Gherardo	Ancell	419	23.7141095	7.167591742	FALSE	TRUE
+17	Cloris	St. Hill	37	Hershel	Lomansey	313	58.17874327	-46.69576552	FALSE	TRUE
+18	Johna	Mouser	38	Yancy	Beggini	258	-56.77446653	-41.14802892	FALSE	TRUE
+19	Elisa	Geggus	39	Gerome	Orgee	629	-36.6645775	32.52038603	FALSE	TRUE
+20	Martha	Cohen	40	Putnem	Frayne	441	62.27166071	-66.09567766	TRUE	TRUE
